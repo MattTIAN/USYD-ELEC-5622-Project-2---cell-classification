@@ -1,4 +1,4 @@
-# USYD-ELEC-5622-Project-2---cell-classification
+# USYD-ELEC-5622-Project-2--cell-classification
 
 5622这门课作业贼多，不过付出就有收获，由于前一个学期学的ML和DL两门，没有基础，学起来很吃力。而5622用到的DL知识十分简单，直接用一个预训练模型即可。
 
